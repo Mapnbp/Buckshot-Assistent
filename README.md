@@ -16,9 +16,9 @@ _(Insert images here)_
 ## 🔬 Understanding the Probability Behind the Percentage Bar
 The percentage bar is calculated based on **conditional probability**. Given an event **A** and a condition **B**, the probability of **A** happening given **B** has already occurred is given by:
 
-\[
+$$
 P(A | B) = \frac{P(A \cap B)}{P(B)}
-\]
+$$
 
 Where:
 - \( P(A | B) \) is the probability of event A occurring given that B has already occurred.
@@ -76,12 +76,12 @@ This project is licensed under the MIT License.
 
 📧 **Contact:** If you have any questions, feel free to reach out!
 
-##🚀 Future Improvements
-Add the option to set initial quantities of balls.
+🚀 **Future Improvements**
+- Add the option to set initial quantities of balls.
 
-Implement animations for the removal process.
+- Implement animations for the removal process.
 
-Export data to CSV/Excel.
+- Export data to CSV/Excel.
 
 Additionally, data will be collected and an inference will be made using the R programming language to verify if the probabilistic model corresponds to the real functioning of the game.
 
