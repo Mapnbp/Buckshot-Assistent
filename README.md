@@ -11,7 +11,9 @@ This project is a probability simulator designed to demonstrate conditional prob
 - 🖥️ **Graphical representation** for better visualization
 
 ## 📷 Screenshots
-_(Insert images here)_
+![image](https://github.com/user-attachments/assets/3d637b71-0087-42f5-b531-980a93307072)
+![image](https://github.com/user-attachments/assets/3c305f3b-7d32-4543-a954-4e4ee4ade6f0)
+
 
 ## 🔬 Understanding the Probability Behind the Percentage Bar
 The percentage bar is calculated based on **conditional probability**. Given an event **A** and a condition **B**, the probability of **A** happening given **B** has already occurred is given by:
