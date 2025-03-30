@@ -54,7 +54,7 @@ The library ensures accuracy and optimizes computational performance, making the
    ```
 2. Navigate to the project directory:
    ```sh
-   cd probability-simulator
+   cd Buckshot-Assistent
    ```
 3. Install dependencies (doesnt heve yet):
    ```sh
