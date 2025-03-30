@@ -22,7 +22,7 @@ $$
 
 Where:
 - \( P(A | B) \) is the probability of event A occurring given that B has already occurred.
-- \( P(A \cap B) \) is the probability of both A and B happening.
+- \( P(A ∩ B) \) is the probability of both A and B happening.
 - \( P(B) \) is the probability of event B occurring.
 
 This conditional probability is used to update the percentage bar dynamically, providing a real-time estimation based on new inputs.
